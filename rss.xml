@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title><![CDATA[Metagenomics Blog]]></title>
+<description><![CDATA[Metagenomics Blog]]></description>
+<link>https://ohmeta.github.io/</link>
+<lastBuildDate>Sun, 20 Sep 2020 02:06:59 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[About]]></title>
+  <description><![CDATA[
+<p>
+About is a about about about.
+</p>
+<div class="taglist"><a href="https://ohmeta.github.io/tags.html">Tags</a>: <a href="https://ohmeta.github.io/tag-about.html">About</a> </div>]]></description>
+  <category><![CDATA[About]]></category>
+  <link>https://ohmeta.github.io/about.html</link>
+  <pubDate>Sat, 01 Aug 2020 14:23:00 +0800</pubDate>
+</item>
+</channel>
+</rss>

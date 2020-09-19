@@ -1,0 +1,5 @@
+#+TITLE: Ohmeta Blog
+
+#+html: <p align="center"> <img src="images/meta_logo.jpg"/> </p>
+
+Research here (•̀ᴗ•́)و
