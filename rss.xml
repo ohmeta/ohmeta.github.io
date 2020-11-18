@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title><![CDATA[Metagenomics Blog]]></title>
-<description><![CDATA[Metagenomics Blog]]></description>
+<title><![CDATA[Metagenomics Research Blog]]></title>
+<description><![CDATA[Metagenomics Research Blog]]></description>
 <link>https://ohmeta.github.io/</link>
-<lastBuildDate>Sun, 20 Sep 2020 02:06:59 +0800</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2020 16:54:09 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[#+title: Human oral genome database]]></title>
+  <description><![CDATA[
+
+<div id="outline-container-orgcf7f2f8" class="outline-2">
+<h2 id="orgcf7f2f8">Summary</h2>
+<div class="outline-text-2" id="text-orgcf7f2f8">
+<p>
+<a href="../images/human_oral_genome_database/summary.png">workflow</a>
+</p>
+</div>
+</div>
+<div class="taglist"><a href="https://ohmeta.github.io/tags.html">Tags</a>: <a href="https://ohmeta.github.io/tag-metagenomics.html">Metagenomics</a> <a href="https://ohmeta.github.io/tag-bioinformatics.html">Bioinformatics</a> <a href="https://ohmeta.github.io/tag-mags.html">MAGs</a> <a href="https://ohmeta.github.io/tag-human.html">Human</a> <a href="https://ohmeta.github.io/tag-oral.html">Oral</a> </div>]]></description>
+  <category><![CDATA[Metagenomics]]></category>
+  <category><![CDATA[Bioinformatics]]></category>
+  <category><![CDATA[MAGs]]></category>
+  <category><![CDATA[Human]]></category>
+  <category><![CDATA[Oral]]></category>
+  <link>https://ohmeta.github.io/2020-11-18-human-oral-genome-database.html</link>
+  <pubDate>Wed, 18 Nov 2020 16:02:00 +0800</pubDate>
+</item>
 <item>
   <title><![CDATA[About]]></title>
   <description><![CDATA[
