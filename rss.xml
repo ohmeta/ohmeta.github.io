@@ -4,17 +4,15 @@
 <title><![CDATA[Metagenomics Research Blog]]></title>
 <description><![CDATA[Metagenomics Research Blog]]></description>
 <link>https://ohmeta.github.io/</link>
-<lastBuildDate>Wed, 18 Nov 2020 16:54:09 +0800</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2020 17:05:49 +0800</lastBuildDate>
 <item>
-  <title><![CDATA[#+title: Human oral genome database]]></title>
+  <title><![CDATA[Human oral genome database]]></title>
   <description><![CDATA[
 
-<div id="outline-container-orgcf7f2f8" class="outline-2">
-<h2 id="orgcf7f2f8">Summary</h2>
-<div class="outline-text-2" id="text-orgcf7f2f8">
-<p>
-<a href="../images/human_oral_genome_database/summary.png">workflow</a>
-</p>
+<div id="outline-container-orge1fdece" class="outline-2">
+<h2 id="orge1fdece">Summary</h2>
+<div class="outline-text-2" id="text-orge1fdece">
+<img style="width:70%;padding-left:15%;padding-top:5px;padding-bottom:10px" src="/static/human_oral_genome_database/summary.svg"
 </div>
 </div>
 <div class="taglist"><a href="https://ohmeta.github.io/tags.html">Tags</a>: <a href="https://ohmeta.github.io/tag-metagenomics.html">Metagenomics</a> <a href="https://ohmeta.github.io/tag-bioinformatics.html">Bioinformatics</a> <a href="https://ohmeta.github.io/tag-mags.html">MAGs</a> <a href="https://ohmeta.github.io/tag-human.html">Human</a> <a href="https://ohmeta.github.io/tag-oral.html">Oral</a> </div>]]></description>
