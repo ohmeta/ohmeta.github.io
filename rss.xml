@@ -4,41 +4,58 @@
 <title><![CDATA[Metagenomics Research Blog]]></title>
 <description><![CDATA[Metagenomics Research Blog]]></description>
 <link>https://ohmeta.github.io/</link>
-<lastBuildDate>Tue, 24 Nov 2020 14:43:35 +0800</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2020 14:46:55 +0800</lastBuildDate>
 <item>
   <title><![CDATA[Human oral genome database]]></title>
   <description><![CDATA[
 
-<div id="outline-container-orga5d321b" class="outline-2">
-<h2 id="orga5d321b">Summary</h2>
-<div class="outline-text-2" id="text-orga5d321b">
+<div id="outline-container-org627bc7e" class="outline-2">
+<h2 id="org627bc7e">Summary</h2>
+<div class="outline-text-2" id="text-org627bc7e">
 <img style="width:70%;padding-left:15%;padding-top:5px;padding-bottom:10px" src="/images/human_oral_genome_database/summary.svg">
 </div>
 </div>
 
-<div id="outline-container-orgb55d69d" class="outline-2">
-<h2 id="orgb55d69d">Taxonomy</h2>
-<div class="outline-text-2" id="text-orgb55d69d">
+<div id="outline-container-orgcf3bd98" class="outline-2">
+<h2 id="orgcf3bd98">Taxonomy</h2>
+<div class="outline-text-2" id="text-orgcf3bd98">
 <img style="width:70%;padding-left:15%;padding-top:5px;padding-bottom:10px" src="/images/human_oral_genome_database/taxonomy.svg">
 </div>
 </div>
 
-<div id="outline-container-org8861cd7" class="outline-2">
-<h2 id="org8861cd7">Database</h2>
-<div class="outline-text-2" id="text-org8861cd7">
+<div id="outline-container-orgd52dffa" class="outline-2">
+<h2 id="orgd52dffa">Database</h2>
+<div class="outline-text-2" id="text-orgd52dffa">
 </div>
-<div id="outline-container-orgd3b88bf" class="outline-3">
-<h3 id="orgd3b88bf">genomes bowtie2 index</h3>
+<div id="outline-container-orgb85e532" class="outline-3">
+<h3 id="orgb85e532">genomes bowtie2 index</h3>
+<div class="outline-text-3" id="text-orgb85e532">
+<p>
+~/documents/doraemon/projects/meta<sub>assembly</sub><sub>oral</sub>/upload/mmdb<sub>oral</sub>/bowtie2<sub>index</sub>
+</p>
+</div>
+</div>
+<div id="outline-container-orgac68f14" class="outline-3">
+<h3 id="orgac68f14">genomes and annotation</h3>
+<div class="outline-text-3" id="text-orgac68f14">
+<p>
+~/documents/doraemon/projects/meta<sub>assembly</sub><sub>oral</sub>/upload/mmdb<sub>oral</sub>/genomes<sub>annotation</sub>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org3677e18" class="outline-2">
+<h2 id="org3677e18">Pipeline</h2>
+<div class="outline-text-2" id="text-org3677e18">
+<p>
+<a href="https://github.com/ohmeta/metapi">https://github.com/ohmeta/metapi</a>
+</p>
+</div>
 </div>
 
-<div id="outline-container-org515000d" class="outline-3">
-<h3 id="org515000d">genomes and annotation</h3>
-</div>
-</div>
-
-<div id="outline-container-orgc77cb59" class="outline-2">
-<h2 id="orgc77cb59">Reference</h2>
-<div class="outline-text-2" id="text-orgc77cb59">
+<div id="outline-container-org403d0a3" class="outline-2">
+<h2 id="org403d0a3">Reference</h2>
+<div class="outline-text-2" id="text-org403d0a3">
 <ul class="org-ul">
 <li><a href="https://doi.org/10.1101/820365">https://doi.org/10.1101/820365</a></li>
 </ul>
