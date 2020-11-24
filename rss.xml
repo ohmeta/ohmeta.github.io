@@ -4,97 +4,41 @@
 <title><![CDATA[Metagenomics Research Blog]]></title>
 <description><![CDATA[Metagenomics Research Blog]]></description>
 <link>https://ohmeta.github.io/</link>
-<lastBuildDate>Wed, 18 Nov 2020 17:23:04 +0800</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2020 14:43:35 +0800</lastBuildDate>
 <item>
   <title><![CDATA[Human oral genome database]]></title>
   <description><![CDATA[
 
-<div id="outline-container-org45fd8ad" class="outline-2">
-<h2 id="org45fd8ad">Summary</h2>
-<div class="outline-text-2" id="text-org45fd8ad">
+<div id="outline-container-orga5d321b" class="outline-2">
+<h2 id="orga5d321b">Summary</h2>
+<div class="outline-text-2" id="text-orga5d321b">
 <img style="width:70%;padding-left:15%;padding-top:5px;padding-bottom:10px" src="/images/human_oral_genome_database/summary.svg">
 </div>
 </div>
 
-<div id="outline-container-orgbfa1279" class="outline-2">
-<h2 id="orgbfa1279">Taxonomy</h2>
-<div class="outline-text-2" id="text-orgbfa1279">
+<div id="outline-container-orgb55d69d" class="outline-2">
+<h2 id="orgb55d69d">Taxonomy</h2>
+<div class="outline-text-2" id="text-orgb55d69d">
 <img style="width:70%;padding-left:15%;padding-top:5px;padding-bottom:10px" src="/images/human_oral_genome_database/taxonomy.svg">
 </div>
 </div>
 
-<div id="outline-container-org898242d" class="outline-2">
-<h2 id="org898242d">Database</h2>
-<div class="outline-text-2" id="text-org898242d">
+<div id="outline-container-org8861cd7" class="outline-2">
+<h2 id="org8861cd7">Database</h2>
+<div class="outline-text-2" id="text-org8861cd7">
 </div>
-<div id="outline-container-orgcd01bb1" class="outline-3">
-<h3 id="orgcd01bb1">genomes</h3>
-<div class="outline-text-3" id="text-orgcd01bb1">
+<div id="outline-container-orgd3b88bf" class="outline-3">
+<h3 id="orgd3b88bf">genomes bowtie2 index</h3>
 </div>
-<div id="outline-container-orgf02c3f9" class="outline-4">
-<h4 id="orgf02c3f9">56213 genomes</h4>
-<div class="outline-text-4" id="text-orgf02c3f9">
-<p>
-path
-</p>
-</div>
-</div>
-<div id="outline-container-orgefe156c" class="outline-4">
-<h4 id="orgefe156c">3589 genomes</h4>
-<div class="outline-text-4" id="text-orgefe156c">
-<p>
-path<sub>link</sub>
-</p>
-</div>
-</div>
-</div>
-<div id="outline-container-org2b1212e" class="outline-3">
-<h3 id="org2b1212e">genomes index</h3>
-<div class="outline-text-3" id="text-org2b1212e">
-</div>
-<div id="outline-container-org54c237e" class="outline-4">
-<h4 id="org54c237e">bowtie2 index</h4>
-<div class="outline-text-4" id="text-org54c237e">
-<p>
-path<sub>link</sub>
-</p>
-</div>
-</div>
-<div id="outline-container-org42d5ef2" class="outline-4">
-<h4 id="org42d5ef2">kraken2 index</h4>
-<div class="outline-text-4" id="text-org42d5ef2">
-<p>
-path<sub>link</sub>
-</p>
-</div>
-</div>
-</div>
-<div id="outline-container-org17704af" class="outline-3">
-<h3 id="org17704af">annotation</h3>
-<div class="outline-text-3" id="text-org17704af">
-</div>
-<div id="outline-container-org8e7f566" class="outline-4">
-<h4 id="org8e7f566">gene annotation</h4>
-<div class="outline-text-4" id="text-org8e7f566">
-<p>
-path<sub>link</sub>
-</p>
-</div>
-</div>
-<div id="outline-container-orgf9721d2" class="outline-4">
-<h4 id="orgf9721d2">function annotation</h4>
-<div class="outline-text-4" id="text-orgf9721d2">
-<p>
-path<sub>link</sub>
-</p>
-</div>
-</div>
+
+<div id="outline-container-org515000d" class="outline-3">
+<h3 id="org515000d">genomes and annotation</h3>
 </div>
 </div>
 
-<div id="outline-container-orgb8a7f58" class="outline-2">
-<h2 id="orgb8a7f58">Reference</h2>
-<div class="outline-text-2" id="text-orgb8a7f58">
+<div id="outline-container-orgc77cb59" class="outline-2">
+<h2 id="orgc77cb59">Reference</h2>
+<div class="outline-text-2" id="text-orgc77cb59">
 <ul class="org-ul">
 <li><a href="https://doi.org/10.1101/820365">https://doi.org/10.1101/820365</a></li>
 </ul>
